@@ -8,3 +8,10 @@ div {
   box-sizing: border-box;
   
 }
+
+.vertical {
+  display: inline;
+}
+
+
+
