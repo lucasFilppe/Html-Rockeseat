@@ -6,7 +6,7 @@
 * Maior facilidade para aplicar o CSS
 
 ## O que é? 
->Uma caixa retangular que possui propriedades
+### Uma caixa retangular que possui propriedades
 *Tamanho(largura x altura) = width e height
 *Conteúdo = content
 *Bordas = border
@@ -17,8 +17,8 @@
 
 ## display: block vs display: inline
 
--como as caixas se comportam em relação as outras
--comportamento extenos das caixas
+- como as caixas se comportam em relação as outras
+- comportamento extenos das caixas
 
 **block**
 Ocupa toda linha, colocando o proximo elemento abaixo desse
