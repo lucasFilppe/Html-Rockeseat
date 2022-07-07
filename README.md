@@ -22,12 +22,19 @@ Uma caixa retangular que possui propriedades
 - como as caixas se comportam em relação as outras
 - comportamento extenos das caixas
 
-| **block** | **inline** |
-| Ocupa toda linha, colocando o proximo elemento abaixo desse | Elemento ao lado do outro |
-| Width e heigth são respeitados | Width e heigth não funcionam |
-| Padding, margin, border irão funcionar normalmente | Padding, margin, border irão funcionar somente os valores horizontais |
+**block** |
+
+- Ocupa toda linha, colocando o proximo elemento abaixo desse
+- Width e heigth são respeitados
+- Padding, margin, border irão funcionar normalmente
+
+**inline**
+
+- Elemento ao lado do outro
+- Width e heigth não funcionam
+- Padding, margin, border irão funcionar somente os valores horizontais
 
 ### Exemplos
 
-block: p, div, h1...
-inline:a, strong, span...
+- block: p, div, h1...
+- inline:a, strong, span...
