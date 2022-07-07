@@ -2,20 +2,18 @@
 
 #BOX MODEL
 
--Fundamental para fazer layouts na web
--Maior facilidade para aplicar o CSS
+* Fundamental para fazer layouts na web
+* Maior facilidade para aplicar o CSS
 
-## O que é?
+## O que é? 
+>Uma caixa retangular que possui propriedades
+*Tamanho(largura x altura) = width e height
+*Conteúdo = content
+*Bordas = border
+*Preenchimento interno = padding
+*Espaços fora da caixa = margin
 
-Uma caixa retangular que possui propriedades
-
--Tamanho(largura x altura) = width e height
--Conteúdo = content
--Bordas = border
--Preenchimento interno = padding
--Espaços fora da caixa = margin
-
-_Cada elemento é uma caixa _
+### Cada elemento é uma caixa 
 
 ## display: block vs display: inline
 
