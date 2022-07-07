@@ -17,12 +17,12 @@ Uma caixa retangular que possui propriedades
 
 ### Cada elemento é uma caixa
 
-# display: block display: inline
+# display: block vs display: inline
 
 - como as caixas se comportam em relação as outras
 - comportamento extenos das caixas
 
-**block** |
+**block**
 
 - Ocupa toda linha, colocando o proximo elemento abaixo desse
 - Width e heigth são respeitados
@@ -38,3 +38,24 @@ Uma caixa retangular que possui propriedades
 
 - block: p, div, h1...
 - inline:a, strong, span...
+
+# Layouts
+
+É a maneira que os elementos estão distribuídos na tela
+
+### Normal Flow
+
+É maneira que os elementos block e inline ficam na página
+
+### Flex box
+
+A caixa se torna flex, fazendo com que os elementos possam receber melhor :
+
+- Alinhamento
+- ordenação
+- tamanhos flexiveis
+
+### Flex sizing
+
+- Flexivel
+- altera width\heigth dos intens para preenchimento de espaços do flex container
