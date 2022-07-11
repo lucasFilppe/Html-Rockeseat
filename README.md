@@ -59,3 +59,9 @@ A caixa se torna flex, fazendo com que os elementos possam receber melhor :
 
 - Flexivel
 - altera width\heigth dos intens para preenchimento de espaços do flex container
+
+### Direção dos itens
+
+- Flex é uma dimensão (horizontal ou vertical)
+- Podemos mudar a direção com "flex-direction"
+- Valores: (row |row reverse| column | column-reverse)
