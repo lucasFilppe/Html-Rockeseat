@@ -70,3 +70,22 @@ A caixa se torna flex, fazendo com que os elementos possam receber melhor :
 
 - Podemos usar multi linhas
 - Cada nova linha, um novo flex container
+
+### Flex-flow
+
+- shorthand
+- flex-direction || flex-wrap
+
+### justify-content
+
+- Alinhamento dos elementos dentro do container
+- Distribuição dos elementos[
+
+#### valores
+
+- flex-start
+- flex-end
+- center
+- space-around
+- space-between
+- space-evnly
