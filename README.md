@@ -100,3 +100,13 @@ A caixa se torna flex, fazendo com que os elementos possam receber melhor :
 - flex-start
 - flex-end
 - center
+
+### gap
+
+- Espaços entre elementos
+
+####
+
+- Unidades de medida
+- fixas: px, pt
+- flexíveis: %, em, rem
