@@ -89,3 +89,14 @@ A caixa se torna flex, fazendo com que os elementos possam receber melhor :
 - space-around
 - space-between
 - space-evnly
+
+### align-items
+
+- Alinhamento de elemntos
+
+#### valores
+
+- stretch
+- flex-start
+- flex-end
+- center
