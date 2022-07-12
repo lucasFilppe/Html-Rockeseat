@@ -110,3 +110,11 @@ A caixa se torna flex, fazendo com que os elementos possam receber melhor :
 - Unidades de medida
 - fixas: px, pt
 - flexíveis: %, em, rem
+
+### Propriedades para os itens
+
+- Flex-basis
+- flex-grow
+- flex-shrink
+- flex
+- order
