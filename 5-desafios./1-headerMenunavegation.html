@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <style>
+    *{
+      margin: 0;
+    }
+
+    header{
+      padding: 4rem;
+      background: lightgray
+    }
+
+    nav{
+      display: flex;
+      justify-content: space-between;
+
+    }
+
+    ul{
+      display: flex;
+      gap: .8rem;
+      list-style: none;
+
+    }
+
+    /*pegando ultimo elemento*/
+    ul li:last-child{
+      background: black;
+      color: white;
+      
+    }
+
+  </style>
+  <body>
+    <header>
+      <nav>
+        <a href="#">Logo</a>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>services</li>
+          <li>Test</li>
+          <li>Contact</li>
+        </ul>
+      </nav>
+    </header>
+  </body>
+</html>
